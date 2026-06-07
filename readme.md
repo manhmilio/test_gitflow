@@ -1,1 +1,1 @@
-commit là vẫn chưa đẩy lên web? thế thì khác đéo gì nút ctrl s
+goodn 
