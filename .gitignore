@@ -2,4 +2,11 @@
 venv/
 .output/
 .debug_response/
-kê bê bê anh đang ở main cũng checkout à?
+Lib/
+Include/
+Scripts/
+share/
+pyvenv.cfg
+.venv/
+venv/
+ENV/
